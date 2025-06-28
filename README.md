@@ -1,7 +1,6 @@
 <h1 align="center">Khadija⭐</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Backend developer </h3>
 
-- 🔭 I’m currently working on **HMS project**
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -36,9 +35,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijakhalil1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijakhalil1" /> </p>
 
