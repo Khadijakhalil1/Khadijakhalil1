@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer </h3>
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱  currently learning **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,14 +29,7 @@
 </div>
 
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijakhalil1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijakhalil1" /> </p>
+alt="khadijakhalil1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
