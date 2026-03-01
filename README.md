@@ -42,7 +42,4 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijakhalil1&show_icons=true&locale=en&layout=compact" alt="khadijakhalil1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadijakhalil1&show_icons=true&locale=en" alt="khadijakhalil1" /></p>
 
