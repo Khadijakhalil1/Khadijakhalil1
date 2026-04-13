@@ -1,10 +1,9 @@
 <h1 align="center">Khadija⭐</h1>
-<h3 align="center">A passionate Backend developer </h3>
+<h3 align="center">A passionate AI & Machine Learning Enthusiast</h3>
 
 
-- 🌱  currently learning **Data Science**
+- 🌱  currently learning **AI & Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
