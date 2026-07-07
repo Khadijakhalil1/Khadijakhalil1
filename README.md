@@ -6,15 +6,15 @@
 
 <br/>
 
-![GCU Faisalabad](https://img.shields.io/badge/GCU%20Faisalabad-CGPA%203.40-7c3aed?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![BS Computer Science](https://img.shields.io/badge/BS%20Computer%20Science-2022--2026-6d28d9?style=for-the-badge&logo=book&logoColor=white)
+![GCU Faisalabad](https://img.shields.io/badge/GCU%20Faisalabad-CGPA%203.40-7c3aed?style=for-the-badge&logoColor=white)
+![BS Computer Science](https://img.shields.io/badge/BS%20Computer%20Science-2022--2026-6d28d9?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Faisalabad%2C%20Pakistan-📍-5b21b6?style=for-the-badge&logoColor=white)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khadija%20Khalil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-khalil-ba1857408/)
 [![GitHub](https://img.shields.io/badge/GitHub-Khadijakhalil1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khadijakhalil1)
-[![Email](https://img.shields.io/badge/Email-khadijakhalil207@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijakhalil207@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-khadijakhalil207-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijakhalil207@gmail.com)
 
 <br/>
 
@@ -38,7 +38,7 @@ Focus       : Agentic AI, NLP, Machine Learning, MERN Stack
 
 Aspiring **AI/ML Engineer** with strong expertise in **Python, Machine Learning, and Data Science**. Proficient in **NLP**, data visualization, and building full-stack applications using the **MERN stack**. Currently exploring **Agentic AI** — autonomous AI agents, tool use, and AI-powered workflows.
 
-**🔍 Open To:** Internships | Full-time Roles
+**🔍 Open To:** Internships &nbsp;|&nbsp; Full-time Roles
 
 ---
 
@@ -83,7 +83,6 @@ Aspiring **AI/ML Engineer** with strong expertise in **Python, Machine Learning,
 
 <details>
 <summary><b>🍽️ AI-Based Food Ordering & Recommendation System</b> — Final Year Project</summary>
-
 <br/>
 
 A full-stack intelligent food ordering platform built with the **MERN stack**, featuring AI-powered food recommendations based on user preferences and behavior patterns.
@@ -104,7 +103,6 @@ Built to demonstrate the integration of machine learning recommendations into a 
 
 <details>
 <summary><b>🛡️ Spam Detection System</b></summary>
-
 <br/>
 
 A machine learning powered **NLP classification system** that detects spam messages in real-time with an interactive web interface.
@@ -125,7 +123,6 @@ Demonstrates end-to-end ML pipeline from data preprocessing to model deployment 
 
 <details>
 <summary><b>🏥 Hospital Management System</b></summary>
-
 <br/>
 
 A robust **enterprise-grade management system** for hospitals built with Microsoft technologies.
@@ -185,11 +182,11 @@ Developing intelligent AI chatbots leveraging **Agentic AI** frameworks and mode
 
 **Sahil Tech**
 
-![AI Cert](https://img.shields.io/badge/Artificial%20Intelligence-Sahil%20Tech-7c3aed?style=for-the-badge&logo=brain&logoColor=white)
+![AI Cert](https://img.shields.io/badge/Artificial%20Intelligence-Sahil%20Tech-7c3aed?style=for-the-badge&logoColor=white)
 
 **NAVTTC**
 
-![NAVTTC](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-NAVTTC%20Certified-6d28d9?style=for-the-badge&logo=certificate&logoColor=white)
+![NAVTTC](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-NAVTTC%20Certified-6d28d9?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -200,7 +197,7 @@ Developing intelligent AI chatbots leveraging **Agentic AI** frameworks and mode
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Khadijakhalil1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khadijakhalil1&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=6d28d9&currStreakLabel=c4b5fd" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Khadijakhalil1&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=6d28d9&currStreakLabel=c4b5fd" width="48%"/>
 
 <br/>
 
@@ -214,7 +211,7 @@ Developing intelligent AI chatbots leveraging **Agentic AI** frameworks and mode
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Khadijakhalil1&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&title_color=7c3aed)
+<img src="https://github-profile-trophy.vercel.app/?username=Khadijakhalil1&theme=darkhub&no-frame=true&column=6&margin-w=10" />
 
 </div>
 
@@ -224,7 +221,7 @@ Developing intelligent AI chatbots leveraging **Agentic AI** frameworks and mode
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadijakhalil1&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khadijakhalil1&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=c4b5fd&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -234,7 +231,7 @@ Developing intelligent AI chatbots leveraging **Agentic AI** frameworks and mode
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Khadijakhalil1/Khadijakhalil1/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Khadijakhalil1/Khadijakhalil1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -266,12 +263,14 @@ Open To:
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-khalil-ba1857408/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khadijakhalil1)
+&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijakhalil207@gmail.com)
 
 </div>
