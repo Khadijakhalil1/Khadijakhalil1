@@ -192,31 +192,6 @@ Developing intelligent AI chatbots leveraging **Agentic AI** frameworks and mode
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Khadijakhalil1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Khadijakhalil1&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=6d28d9&currStreakLabel=c4b5fd" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadijakhalil1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c4b5fd" width="40%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khadijakhalil1&theme=darkhub&no-frame=true&column=6&margin-w=10" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
